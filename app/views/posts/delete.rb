@@ -1,1 +1,1 @@
-<%= @post_name %> was deleted
+<%= @post_name %> 
